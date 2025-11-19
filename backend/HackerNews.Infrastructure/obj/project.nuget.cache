@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "qqlBJg51REJ8Jztx7QR+iMA/EFrdXeHUo9WlYsm97HCEgKmpVeAI9ETEXOZlfA3x7kGkW2XKh6oHL8V3pCYWfg==",
+  "success": true,
+  "projectFilePath": "/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/HackerNews.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/mohammadabuhussein/.nuget/packages/microsoft.extensions.caching.abstractions/10.0.0/microsoft.extensions.caching.abstractions.10.0.0.nupkg.sha512",
+    "/Users/mohammadabuhussein/.nuget/packages/microsoft.extensions.caching.memory/10.0.0/microsoft.extensions.caching.memory.10.0.0.nupkg.sha512",
+    "/Users/mohammadabuhussein/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "/Users/mohammadabuhussein/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0/microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "/Users/mohammadabuhussein/.nuget/packages/microsoft.extensions.options/10.0.0/microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "/Users/mohammadabuhussein/.nuget/packages/microsoft.extensions.primitives/10.0.0/microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "/Users/mohammadabuhussein/.nuget/packages/system.buffers/4.6.1/system.buffers.4.6.1.nupkg.sha512",
+    "/Users/mohammadabuhussein/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/mohammadabuhussein/.nuget/packages/system.diagnostics.diagnosticsource/10.0.0/system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
+    "/Users/mohammadabuhussein/.nuget/packages/system.memory/4.6.3/system.memory.4.6.3.nupkg.sha512",
+    "/Users/mohammadabuhussein/.nuget/packages/system.runtime.compilerservices.unsafe/6.1.2/system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512",
+    "/Users/mohammadabuhussein/.nuget/packages/system.threading.tasks.extensions/4.6.3/system.threading.tasks.extensions.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

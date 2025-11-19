@@ -1,0 +1,15 @@
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/bin/Debug/net7.0/HackerNews.Application.deps.json
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/bin/Debug/net7.0/HackerNews.Application.dll
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/bin/Debug/net7.0/HackerNews.Application.pdb
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/bin/Debug/net7.0/HackerNews.Domain.dll
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/bin/Debug/net7.0/HackerNews.Domain.pdb
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/obj/Debug/net7.0/HackerNews.Application.csproj.AssemblyReference.cache
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/obj/Debug/net7.0/HackerNews.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/obj/Debug/net7.0/HackerNews.Application.AssemblyInfoInputs.cache
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/obj/Debug/net7.0/HackerNews.Application.AssemblyInfo.cs
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/obj/Debug/net7.0/HackerNews.Application.csproj.CoreCompileInputs.cache
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/obj/Debug/net7.0/HackerNews.Application.csproj.CopyComplete
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/obj/Debug/net7.0/HackerNews.Application.dll
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/obj/Debug/net7.0/refint/HackerNews.Application.dll
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/obj/Debug/net7.0/HackerNews.Application.pdb
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Application/obj/Debug/net7.0/ref/HackerNews.Application.dll

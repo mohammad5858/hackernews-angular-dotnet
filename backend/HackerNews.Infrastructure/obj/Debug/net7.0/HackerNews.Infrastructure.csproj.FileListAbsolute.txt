@@ -1,0 +1,17 @@
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/obj/Debug/net7.0/HackerNews.Infrastructure.csproj.AssemblyReference.cache
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/obj/Debug/net7.0/HackerNews.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/obj/Debug/net7.0/HackerNews.Infrastructure.AssemblyInfoInputs.cache
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/obj/Debug/net7.0/HackerNews.Infrastructure.AssemblyInfo.cs
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/obj/Debug/net7.0/HackerNews.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/bin/Debug/net7.0/HackerNews.Infrastructure.deps.json
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/bin/Debug/net7.0/HackerNews.Infrastructure.dll
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/bin/Debug/net7.0/HackerNews.Infrastructure.pdb
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/bin/Debug/net7.0/HackerNews.Application.dll
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/bin/Debug/net7.0/HackerNews.Domain.dll
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/bin/Debug/net7.0/HackerNews.Domain.pdb
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/bin/Debug/net7.0/HackerNews.Application.pdb
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/obj/Debug/net7.0/HackerNews.Infrastructure.csproj.CopyComplete
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/obj/Debug/net7.0/HackerNews.Infrastructure.dll
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/obj/Debug/net7.0/refint/HackerNews.Infrastructure.dll
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/obj/Debug/net7.0/HackerNews.Infrastructure.pdb
+/Users/mohammadabuhussein/Desktop/WebApp/Personal/hackernews-angular-dotnet/backend/HackerNews.Infrastructure/obj/Debug/net7.0/ref/HackerNews.Infrastructure.dll
